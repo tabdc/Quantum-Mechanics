@@ -1,1 +1,1 @@
-Self-study of Quantum Mechanics following MIT OpenCourseWare Lectures.
+Self-study of Quantum Mechanics I, II and III following MIT OpenCourseWare Lectures.
